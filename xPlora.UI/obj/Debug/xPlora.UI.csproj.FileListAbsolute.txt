@@ -1,0 +1,13 @@
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\bin\Debug\xPlora.UI.exe.config
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\bin\Debug\xPlora.UI.exe
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\bin\Debug\xPlora.UI.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\xPlora.UI.csprojResolveAssemblyReference.cache
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\MainWindow.baml
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\MainWindow.g.cs
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\App.g.cs
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\xPlora.UI_MarkupCompile.cache
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\xPlora.UI.g.resources
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\xPlora.UI.Properties.Resources.resources
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\xPlora.UI.csproj.GenerateResource.Cache
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\xPlora.UI.exe
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.UI\obj\Debug\xPlora.UI.pdb

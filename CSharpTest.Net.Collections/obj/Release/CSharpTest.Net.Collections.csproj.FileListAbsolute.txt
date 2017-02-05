@@ -1,0 +1,7 @@
+C:\Sumit\SumitWorkspace\A\CSULB\Fall-2014\529-SearchEngineTechnology\529-FinalProject\529FinalProjectSolution\CSharpTest.Net.Collections\bin\CSharpTest.Net.Collections.XML
+C:\Sumit\SumitWorkspace\A\CSULB\Fall-2014\529-SearchEngineTechnology\529-FinalProject\529FinalProjectSolution\CSharpTest.Net.Collections\bin\CSharpTest.Net.Collections.dll
+C:\Sumit\SumitWorkspace\A\CSULB\Fall-2014\529-SearchEngineTechnology\529-FinalProject\529FinalProjectSolution\CSharpTest.Net.Collections\bin\CSharpTest.Net.Collections.pdb
+C:\Sumit\SumitWorkspace\A\CSULB\Fall-2014\529-SearchEngineTechnology\529-FinalProject\529FinalProjectSolution\CSharpTest.Net.Collections\obj\Release\CSharpTest.Net.Resources.resources
+C:\Sumit\SumitWorkspace\A\CSULB\Fall-2014\529-SearchEngineTechnology\529-FinalProject\529FinalProjectSolution\CSharpTest.Net.Collections\obj\Release\CSharpTest.Net.Collections.csproj.GenerateResource.Cache
+C:\Sumit\SumitWorkspace\A\CSULB\Fall-2014\529-SearchEngineTechnology\529-FinalProject\529FinalProjectSolution\CSharpTest.Net.Collections\obj\Release\CSharpTest.Net.Collections.dll
+C:\Sumit\SumitWorkspace\A\CSULB\Fall-2014\529-SearchEngineTechnology\529-FinalProject\529FinalProjectSolution\CSharpTest.Net.Collections\obj\Release\CSharpTest.Net.Collections.pdb

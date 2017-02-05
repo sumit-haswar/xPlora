@@ -1,0 +1,8 @@
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\bin\Debug\xPlora.Core.dll
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\bin\Debug\xPlora.Core.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\bin\Debug\CSharpTest.Net.Collections.dll
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\bin\Debug\CSharpTest.Net.Collections.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\bin\Debug\CSharpTest.Net.Collections.xml
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\obj\Debug\xPlora.Core.csprojResolveAssemblyReference.cache
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\obj\Debug\xPlora.Core.dll
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\obj\Debug\xPlora.Core.pdb

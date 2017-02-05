@@ -1,0 +1,6 @@
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\xPlora.GoogleNewsCrawler.exe.config
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\xPlora.GoogleNewsCrawler.exe
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\xPlora.GoogleNewsCrawler.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\obj\Debug\xPlora.GoogleNewsCrawler.csprojResolveAssemblyReference.cache
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\obj\Debug\xPlora.GoogleNewsCrawler.exe
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\obj\Debug\xPlora.GoogleNewsCrawler.pdb
