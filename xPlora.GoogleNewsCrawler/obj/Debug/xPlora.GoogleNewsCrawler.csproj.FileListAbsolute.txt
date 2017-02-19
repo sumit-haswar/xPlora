@@ -4,3 +4,9 @@
 \\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\obj\Debug\xPlora.GoogleNewsCrawler.csprojResolveAssemblyReference.cache
 \\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\obj\Debug\xPlora.GoogleNewsCrawler.exe
 \\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\obj\Debug\xPlora.GoogleNewsCrawler.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\xPlora.Core.dll
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\HtmlAgilityPack.dll
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\xPlora.Core.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\HtmlAgilityPack.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\HtmlAgilityPack.xml
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.GoogleNewsCrawler\bin\Debug\GoogleNewsLinks.xml

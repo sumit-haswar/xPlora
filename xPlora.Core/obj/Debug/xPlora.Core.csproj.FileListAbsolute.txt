@@ -6,3 +6,6 @@
 \\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\obj\Debug\xPlora.Core.csprojResolveAssemblyReference.cache
 \\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\obj\Debug\xPlora.Core.dll
 \\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\obj\Debug\xPlora.Core.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\bin\Debug\HtmlAgilityPack.dll
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\bin\Debug\HtmlAgilityPack.pdb
+\\Mac\AllFiles\SumitWorkspace\Repository\xPlora\xPlora.Core\bin\Debug\HtmlAgilityPack.xml
